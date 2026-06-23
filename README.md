@@ -30,5 +30,5 @@ The repository is organized seamlessly by topic and problem, housing the standal
 
 ```text
 📂 Data Structures & Algorithms
- └── 📂 [Topic Catergory]
-      ├── 📄 submission
+ └── 📂 Topic Catergory
+           └── 📄 Solution Submission
