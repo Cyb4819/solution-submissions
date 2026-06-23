@@ -28,9 +28,7 @@ The main goal of this repository is to:
 
 The repository is organized seamlessly by topic and problem, housing the standalone code for each successful attempt:
 
+```text
 📂 Data Structures & Algorithms
  └── 📂 [Topic Catergory]
       ├── 📄 submission
----
-
-## Structure
